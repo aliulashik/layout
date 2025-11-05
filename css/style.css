@@ -1,0 +1,10 @@
+section{
+	
+	padding: 30px 0;
+}
+.container{
+	width: 960px;
+	border: 1px solid #c0c0c091;
+	 border-radius: 5px;
+	 padding: 5px;
+}
